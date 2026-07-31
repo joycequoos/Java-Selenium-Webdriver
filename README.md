@@ -4,7 +4,9 @@
 
 Modelo genérico e comentado de teste automatizado com **Selenium WebDriver** e **JUnit**, em Java, pensado para ser reaproveitado como ponto de partida em qualquer projeto de automação de testes web.
 
-https://github.com/joycequoos/Java-Selenium-Webdriver/blob/master/TestTemplate.java
+**→ Veja o código: [https://github.com/joycequoos/Java-Selenium-Webdriver/blob/master/TestTemplate.java)**
+
+
 
 ## Sobre o Modelo
 
