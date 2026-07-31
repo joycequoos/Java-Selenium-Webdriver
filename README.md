@@ -4,6 +4,8 @@
 
 Modelo genérico e comentado de teste automatizado com **Selenium WebDriver** e **JUnit**, em Java, pensado para ser reaproveitado como ponto de partida em qualquer projeto de automação de testes web.
 
+https://github.com/joycequoos/Java-Selenium-Webdriver/blob/master/TestTemplate.java
+
 ## Sobre o Modelo
 
 Este modelo (`TestTemplate.java`) reúne, em um único arquivo, a estrutura básica que qualquer classe de teste com Selenium WebDriver costuma ter: abertura do navegador, execução do cenário de teste e fechamento do navegador ao final — tudo isso já organizado com boas práticas, como espera explícita e localização de elementos por ID.
@@ -56,12 +58,7 @@ Para reaproveitar este modelo em um cenário próprio, é necessário ajustar:
 - **Os seletores** (`By.id(...)`, `By.className(...)`, `By.xpath(...)` etc.) — para os elementos reais da página testada.
 - **As asserções** (`assertEquals`, `assertTrue`) — para os resultados esperados do próprio cenário.
 
-## Conteúdo Relacionado
 
-- [Automação de Testes com Selenium WebDriver — manual completo](https://github.com/joycequoos/Selenium_WebDriver)
-- [Análise de Dados — repositório principal](https://github.com/joycequoos/Analise_de_Dados)
-
-https://github.com/joycequoos/Java-Selenium-Webdriver/blob/master/TestTemplate.java
 
 
 
