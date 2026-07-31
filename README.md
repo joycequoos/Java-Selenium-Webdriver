@@ -1,6 +1,6 @@
 # Modelo Genérico de Teste com Selenium WebDriver
 
-[← Voltar](https://github.com/joycequoos/Analise_de_Dados/blob/main/README.md)
+[← Voltar](https://github.com/joycequoos/Test_QA/blob/main/README.md)
 
 Modelo genérico e comentado de teste automatizado com **Selenium WebDriver** e **JUnit**, em Java, pensado para ser reaproveitado como ponto de partida em qualquer projeto de automação de testes web.
 
